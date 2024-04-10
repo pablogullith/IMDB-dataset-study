@@ -1,0 +1,1 @@
+Estudo feito a partir de um Dataset público do IMDB. 
